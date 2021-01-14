@@ -2,21 +2,21 @@
   "images": [
     {
       "id": 1,
-      "src": "https://i.ibb.co/LYhfJTZ/potfll.png",
-      "alt": "My Portfolio",
-      "url": "http://bogdan42.zzz.com.ua/#work"
+      "src": "https://i.ibb.co/tQRRSgH/portfolio124.jpg",
+      "alt": "Portfolio",
+      "url": "http://portfolio124.zzz.com.ua/"
     },
     {
       "id": 2,
-      "src": "https://i.ibb.co/Vjkr8P1/clockscr.png",
-      "alt": "Simple Clock",
-      "url": "http://simpleclocks.zzz.com.ua/react/"
+      "src": "https://i.ibb.co/7nWwGPX/chasiki124.jpg",
+      "alt": "Clocks",
+      "url": "http://chasiki124.zzz.com.ua/"
     },
     {
       "id": 3,
-      "src": "https://i.ibb.co/SxKY5HB/White-Source.jpg",
-      "alt": "Team",
-      "url": "http://whitesource.zzz.com.ua/team"
+      "src": "https://i.ibb.co/mGx5w7s/team124.jpg",
+      "alt": "MainSite",
+      "url": "http://bogdan124.zzz.com.ua/team"
     }
   ]
 }
